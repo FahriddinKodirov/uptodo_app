@@ -1,0 +1,22 @@
+{
+    "Uncompleted": "Bajarilmagan",
+    "Completed": "Yakunlangan",
+    "HomePage": "Asosiy sahifa",
+    "Profile": "Profil sahifasi",  
+    "Search for your task...": "Vazifangizni toping...",
+    "10 Task left": "10 ta topshiriq qoldi",
+    "5 Task done": "5 vazifa bajarildi",
+    "settings": "Sozlamalar",
+    "Change account name": "Hisob nomini o'zgartiring",
+    "Change account password": "Hisob parolini o'zgartiring",
+    "Change account Image": "Hisob rasmini o'zgartiring",
+    "About US": "Biz haqimizda",
+    "Help & Feedback": "Yordam va mulohazalar",
+    "Support US": "Bizni qo'llab-quvvatlash",
+    "Log out": "Tizimdan chiqish",
+    "App Settings": "Ilova Sozlamalari",
+    "Change app color": "Ilova rangini o'zgartirish",
+    "Change app typography": "Ilova tipografiyasini o'zgartirish",
+    "Change app language": "Ilova tilini o'zgartirish",
+    "Import from Google calendar": "Google taqvimdan Import qilish"
+  }

@@ -1,0 +1,23 @@
+{
+    "Uncompleted": "незавершенный",
+    "Completed": "Завершенный",
+    "HomePage": "Домашняя страница",
+    "Profile": "Профиль",  
+    "Search for your task...": "Найдите свою задачу...",
+    "10 Task left": "10 Осталось заданий",
+    "5 Task done": "5 Задание выполнено",
+    "settings": "настройки",
+    "Change account name": "Изменить имя учетной записи",
+    "Change account password": "Изменить пароль учетной записи",
+    "Change account Image": "Изменить изображение учетной записи",
+    "About US": "O нас",
+    "Help & Feedback": "Помощь и обратная связь",
+    "Support US": "поддержите нас",
+    "Log out": "Выйти из системы",
+    "App Settings": "Настройки приложения",
+    "Change app color": "Изменить цвет приложения",
+    "Change app typography": "Измените типографику приложения",
+    "Change app language": "Измените язык приложения",
+    "Import from Google calendar": "Импорт из календаря Google"
+  
+  }
